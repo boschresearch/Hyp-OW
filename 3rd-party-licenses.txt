@@ -1,0 +1,99 @@
+====================
+Third Party Licenses
+====================
+
+-------------------------------------------------------------------------
+Overview
+--------------------------------------------------------------------------
+1.
+Deformable-ConvNets: https://github.com/msracver/Deformable-ConvNets?tab=MIT-1-ov-file#readme 
+Version: Unspecified
+License: MIT License 
+Copyright (c) 2017-2018 Microsoft
+
+2.
+Deformable-Convolution-V2-PyTorch: https://github.com/developer0hye/PyTorch-Deformable-Convolution-v2?tab=MIT-1-ov-file#readme
+Version: 1.0.0
+License: MIT License 
+Copyright (c) 2021 Yonghye Kwon
+
+3.
+Deformable-DETR: https://github.com/fundamentalvision/Deformable-DETR?tab=Apache-2.0-1-ov-file#readme
+Version: 1.0
+License: Apache-2.0 license 
+Copyright (c) 2020 SenseTime
+
+4.
+Detectron: https://github.com/facebookresearch/Detectron?tab=Apache-2.0-1-ov-file#readme
+Version: Unspecified
+License: Apache-2.0 license
+Copyright (c) 2017-present, Facebook, Inc. and its affiliates
+
+5.
+Detectron2: https://github.com/facebookresearch/Detectron2?tab=Apache-2.0-1-ov-file#readme
+Version: Unspecified
+License: Apache-2.0 license
+Copyright (c) Facebook, Inc. and its affiliates
+
+6.
+detr: https://github.com/facebookresearch/detr/tree/main?tab=Apache-2.0-1-ov-file#readme
+Version: 0.2
+License: Apache-2.0 license
+Copyright (c) Facebook, Inc. and its affiliates
+
+7.
+geoopt: https://github.com/geoopt/geoopt?tab=License-1-ov-file#readme
+Version: 0.5.0
+License: Apache-2.0 license
+Copyright (c) 2018 Geoopt Developers, copyright by Maxim Kochurov.
+
+8.
+mmdetection: https://github.com/open-mmlab/mmdetection?tab=Apache-2.0-1-ov-file#readme
+Version: 3b53fe15d87860c6941f3dda63c0f27422da6266
+License: Apache-2.0 license
+Copyright 2018-2023 OpenMMLab
+
+9.
+OW-DETR: https://github.com/akshitac8/OW-DETR
+Version: Unspecified
+License: Apache-2.0 license
+Copyright (c) 2020 SenseTime
+
+10.
+OWOD: https://github.com/JosephKJ/OWOD?tab=Apache-2.0-1-ov-file#readme
+Version: Unspecified
+License: Apache-2.0 license
+
+11.
+PROB: https://github.com/orrzohar/PROB?tab=Apache-2.0-1-ov-file#readme
+Version: ae5c41e2d7838578210966a89325203cd5a967e0
+License: Apache-2.0 license
+Copyright (c) 2020 SenseTime
+
+12.
+PyTorch
+Version: 173f224570017b4b1a3a1a13d0bff280a54d9cd9
+License: BSD-3 Clause "New" or "Revised" License
+Copyright (c) 2016- Now, Facebook, Inc (Adam Paszke), Copyright (c) 2014-Facebook, Inc (Soumith Chintala), Copyright (c) 2011-2014 Idiap Research Institute (Ronan Collobert), Copyright (c) 2012-2014 Deepmind Technologies (Koray Kavukcuoglu), Copyright (c) 2011-2012 NEC Laboratories America (Koray Kavukcuoglu), Copyright (c) 2011-2013 NYU (Clement Farabet), Copyright (c) 2006-2010 NEC Laboratories America (Ronan Collobert, Leon Bottou, Iain Melvin, Jason Weston), Copyright (c) 2006 Idiap Research Institute (Samy Bengio), Copyright (c) 2001-2004 Idiap Research Institute (Ronan Collobert, Samy Bengio, Johnny Mariethoz), Copyright (c) 2016-present, Facebook Inc. All rights reserved., Copyright (c) 2016 Facebook Inc., Copyright (c) 2015 Google Inc. All rights reserved., Copyright (c) 2015 Yangqing Jia All rights reserved., Copyright(c) 2013, 2014, 2015, the respective contributors All rights reserved., Copyright(c) 2015, 2016 the respective contributors All rights reserved.
+
+13.
+torchvision
+Version: 0.13.0+cu113
+License: BSD-3 Clause "New" or "Revised" License
+Copyright (c) Soumith Chintala 2016, All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+CSAILVision/semantic-segmentation-pytorch: https://github.com/CSAILVision/semantic-segmentation-pytorch
+License: BSD-3
+
+

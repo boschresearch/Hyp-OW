@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+__pycache__  
+*.pyc 
+**/.ipynb_checkpoints/  
+**/__pycache__/ 
+data/OWOD/Annotations/
+data/OWOD/JPEGImages/ 
+data/coco/
+exps/
+!/workspace/Hyp-OW/data/OWOD/ImageSets/ 
+*.pth
+*.zip
+*.gif
