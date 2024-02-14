@@ -2,7 +2,7 @@
 
 :fire:  Official Implementation 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2306.14291-red)](https://arxiv.org/abs/2306.14291) [![Static Badge](https://img.shields.io/badge/Our_Dataset-Hierarchical_Split-blue)]([https://yumengli007.github.io/ALDM](https://github.com/tldoan/Hyp-OW/tree/master/data/OWOD/ImageSets/HIERARCHICAL))  [![Static Badge](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-Green)
+[![arXiv](https://img.shields.io/badge/arXiv-2306.14291-red)](https://arxiv.org/abs/2306.14291) [![Static Badge](https://img.shields.io/badge/pdf-Poster-blue)](https://github.com/boschresearch/Hyp-OW/blob/main/img/Poster_Hyp_AAAI.pdf)  [![Static Badge](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-Green)
 ](https://huggingface.co/tldoan/Hyp-OW/tree/main)
 
 
